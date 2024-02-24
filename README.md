@@ -8,3 +8,14 @@ To build and run main file
 
     make test
 To build and run tests
+
+For WE5 (Weekly Exercise 5):
+
+    make
+To only build files
+
+    make main
+To only build and run main file
+
+    make test
+To only build and run test file
