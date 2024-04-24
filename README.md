@@ -9,7 +9,7 @@ To build and run main file
     make test
 To build and run tests
 
-# CSE3150-Weekly-Exercises 5-8
+# CSE3150-Weekly-Exercises 5-10
 For make file commands:
 
     make
